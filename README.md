@@ -7,7 +7,7 @@
 </br>
 
 <p align="center">
-    :telescope: im probably in school :telescope:
+    :telescope: probably in school :telescope:
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    📑 more info: <a href="https://philosolog.github.io">Pages</a> 📑
+    📑 info: <a href="https://philosolog.github.io">Pages</a> 📑
 </p>
 
 <!--
