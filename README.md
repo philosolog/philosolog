@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  :mailbox: socials: <a href="https://discordapp.com/users/860392044534693909/">Discord</a> :mailbox:
+  :mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:
 </p>
 
 <!--
