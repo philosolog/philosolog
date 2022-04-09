@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  📑 more info: <a href="https://philosolog.github.io">personal website</a> 📑
+  📑 more info: <a href="https://philosolog.github.io">pages site</a> 📑
 </p>
 <!--
 **philosolog/philosolog** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
