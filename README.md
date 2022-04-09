@@ -1,7 +1,5 @@
 <h1>
-    <p align="center">
-        Greetings! :wave:
-    </p>
+    <p align="center">Greetings! :wave:</p>
 </h1>
 
 </br>
