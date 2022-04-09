@@ -7,11 +7,7 @@
 </br>
 
 <p align="center">
-  :telescope: backlogging homework :telescope:
-</p>
-
-<p align="center">
-  :seedling: i'm a lazy piece of shit :seedling:
+  :telescope: im probably in school :telescope:
 </p>
 
 <p align="center">
