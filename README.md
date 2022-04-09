@@ -14,6 +14,9 @@
   :mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:
 </p>
 
+<p align="center">
+  📑 more info: <a href="https://philosolog.github.io">personal website</a> 📑
+</p>
 <!--
 **philosolog/philosolog** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 
