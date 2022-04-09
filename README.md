@@ -1,21 +1,21 @@
 <h1>
     <p align="center">
-      Greetings! :wave:
+        Greetings! :wave:
     </p>
 </h1>
 
 </br>
 
 <p align="center">
-  :telescope: im probably in school :telescope:
+      :telescope: im probably in school :telescope:
 </p>
 
 <p align="center">
-  :mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:
+      :mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:
 </p>
 
 <p align="center">
-  📑 more info: <a href="https://philosolog.github.io">Pages</a> 📑
+      📑 more info: <a href="https://philosolog.github.io">Pages</a> 📑
 </p>
 <!--
 **philosolog/philosolog** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
