@@ -7,7 +7,7 @@
 </br>
 
 <p align="center">
-    :telescope: probably in school :telescope:
+    :telescope: time to do better :telescope:
 </p>
 
 <p align="center">
