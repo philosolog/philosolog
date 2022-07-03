@@ -4,12 +4,14 @@
     </p>
 </h1>
 
-</br>
 <!--
+</br>
+
 <p align="center">
     :telescope: later :telescope:
 </p>
 -->
+
 <p align="center">
     <a href="https://discordapp.com/users/805672070067126272/">:mailbox:</a><!--:mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:-->
 </p>
