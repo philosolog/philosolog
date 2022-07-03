@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-    :mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:
+    <a href="https://discordapp.com/users/805672070067126272/">:mailbox:</a>--:mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:
 </p>
 
 <p align="center">
-    📑 info: <a href="https://philosolog.github.io">Pages</a> 📑
+    <a href="https://philosolog.github.io">📑</a>--📑 info: <a href="https://philosolog.github.io">Pages</a> 📑
 </p>
 
 <!--
