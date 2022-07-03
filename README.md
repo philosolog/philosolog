@@ -7,7 +7,7 @@
 </br>
 
 <p align="center">
-    :telescope: time to do better :telescope:
+    :telescope: it is time :telescope:
 </p>
 
 <p align="center">
