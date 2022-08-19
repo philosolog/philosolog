@@ -13,7 +13,7 @@
 -->
 
 <p align="center">
-    <a href="https://discordapp.com/users/805672070067126272/">:mailbox:</a><!--:mailbox: socials: <a href="https://discordapp.com/users/805672070067126272/">Discord</a> :mailbox:-->
+    <a href="https://discordapp.com/users/897728576659529780/">:mailbox:</a><!--:mailbox: socials: <a href="https://discordapp.com/users/897728576659529780/">Discord</a> :mailbox:-->
 </p>
 
 <p align="center">
