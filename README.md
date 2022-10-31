@@ -16,9 +16,9 @@
     <a href="https://discordapp.com/users/897728576659529780/">:mailbox:</a><!--:mailbox: socials: <a href="https://discordapp.com/users/897728576659529780/">Discord</a> :mailbox:-->
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://philosolog.github.io">📑</a><!--📑 info: <a href="https://philosolog.github.io">Pages</a> 📑-->
-</p>
+</p> -->
 
 <!--
 **philosolog/philosolog** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
