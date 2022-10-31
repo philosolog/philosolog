@@ -17,7 +17,7 @@
 </p>
 
 <!-- <p align="center">
-    <a href="https://philosolog.github.io">📑</a><!--📑 info: <a href="https://philosolog.github.io">Pages</a> 📑-->
+    <a href="https://philosolog.github.io">📑</a>📑 info: <a href="https://philosolog.github.io">Pages</a> 📑
 </p> -->
 
 <!--
