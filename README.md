@@ -14,6 +14,7 @@
 
 <p align="center">
     <a href="https://discordapp.com/users/897728576659529780/">:mailbox:</a><!--:mailbox: socials: <a href="https://discordapp.com/users/897728576659529780/">Discord</a> :mailbox:-->
+    just a student interested in experimenting with pure mathematics and computer science
 </p>
 
 <!-- <p align="center">
