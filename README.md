@@ -15,7 +15,9 @@
 <p align="center">
     <a href="mailto:philosolog@gmail.com">:mailbox:</a>just a student interested in experimenting with pure mathematics and computer science<a href="mailto:philosolog@gmail.com">:mailbox:</a>
 </p>
-
+<p align="center">
+    willing to commit to the long journey of math research and analysis
+</p>
 <!-- <p align="center">
     <a href="https://philosolog.github.io">📑</a>📑 info: <a href="https://philosolog.github.io">Pages</a> 📑
 </p> -->
