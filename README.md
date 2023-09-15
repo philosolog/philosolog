@@ -13,10 +13,7 @@
 -->
 
 <p align="center">
-    📖 just a student interested in experimenting with pure mathematics and computer science
-</p>
-<p align="center">
-    🧗 committed to the long journey of math research and analysis
+    📖 math/cs-inclined student
 </p>
 <!-- <p align="center">
     <a href="https://philosolog.github.io">📑</a>📑 info: <a href="https://philosolog.github.io">Pages</a> 📑
