@@ -13,7 +13,7 @@
 -->
 
 <p align="center">
-    📖 math/cs-inclined student
+    📖 a math/cs-inclined student
 </p>
 <!-- <p align="center">
     <a href="https://philosolog.github.io">📑</a>📑 info: <a href="https://philosolog.github.io">Pages</a> 📑
