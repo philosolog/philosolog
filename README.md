@@ -1,8 +1,8 @@
 <h1>
     <p align="center">
-        Hi.. 👋:
+        Hi.. 👋
     </p>
 </h1>
 <p align="center">
-    Just a student intrigued by pure mathematics, computer science, and computational neuroscience!
+    Simply a [student](https://philosolog.github.io) intrigued by pure mathematics, computer science, computational neuroscience.. <sub>and Clash of Clans</sub>!
 </p>
