@@ -4,5 +4,5 @@
     </p>
 </h1>
 <p align="center">
-    Simply a [student](https://philosolog.github.io/) intrigued by pure mathematics, computer science, computational neuroscience.. <sub>and Clash of Clans</sub>!
+    Simply a <a href="https://philosolog.github.io">student</a> intrigued by pure mathematics, computer science, and computational neuroscience!
 </p>
