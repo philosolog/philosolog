@@ -1,11 +1,8 @@
 <h1>
     <p align="center">
-        Hi.. :wave:
+        Hi.. 👋:
     </p>
 </h1>
 <p align="center">
-    Just a student intrigued by the research of pure math, computer science, and computational neuroscience!
-</p>
-<p align="center">
-    I enjoy competitive programming, app design, game development.. and Clash of Clans.
+    Just a student intrigued by pure mathematics, computer science, and computational neuroscience!
 </p>
