@@ -19,12 +19,12 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5&card_width=320&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5&card_width=320" />
 </picture>
