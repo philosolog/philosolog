@@ -7,28 +7,10 @@
     Simply a <a href="https://philosolog.github.io">student</a> intrigued by pure mathematics, computer science, and computational neuroscience!
 </p>
 <div align="center"> <!-- TODO: Add customizations... -->
-    ![my stats](https://github-readme-stats.vercel.app/api?username=philosolog\&show_icons=true\&theme=transparent)
-    ![my languages](https://github-readme-stats.vercel.app/api/top-langs?username=philosolog\&layout=compact\&langs_count=8\&theme=transparent)
     <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height=187.5 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true" />
+      <img height=187.5 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&theme=transparent" />
     </picture>
     <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=8&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=8"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height=187.5 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=8" />
+      <img height=187.5 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=8&theme=transparent" />
     </picture>
 </div>
