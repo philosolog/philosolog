@@ -20,7 +20,7 @@
     </picture>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5&card_width=320&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
