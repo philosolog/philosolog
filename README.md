@@ -16,7 +16,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true" />
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true" />
     </picture>
     <picture>
       <source
@@ -27,6 +27,6 @@
         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5" />
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&langs_count=5" />
     </picture>
 </div>
