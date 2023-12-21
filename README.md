@@ -8,9 +8,9 @@
 </p>
 <div align="center"> <!-- TODO: Add customizations... -->
     <picture>
-      <img height=187.5 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&hide=contribs,issues&rank_icon=github&theme=transparent" />
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&hide=contribs,issues&rank_icon=github&theme=transparent" />
     </picture>
     <picture>
-      <img height=187.5 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=donut&langs_count=5&theme=transparent" />
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=donut&langs_count=5&theme=transparent" />
     </picture>
 </div>
