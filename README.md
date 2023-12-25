@@ -12,7 +12,7 @@
     </p>
 </h2>
 <div align="center"> <!-- TODO: Add customizations... -->
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&hide=commits&rank_icon=github&count_private=true&theme=vue" />
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&hide_progress=true&langs_count=6&theme=vue" />
-    <img height=187.5 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philosolog&theme=vue" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&hide=commits&rank_icon=github&count_private=true&theme=vue" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&hide_progress=true&langs_count=6&theme=vue" />
+    <img height=175 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philosolog&theme=vue" />
 </div>
