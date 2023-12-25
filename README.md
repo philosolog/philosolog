@@ -3,6 +3,9 @@
         Hi.. 👋
     </p>
 </h1>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philosolog&theme=transparent)
 <p align="center">
     Simply a <a href="https://philosolog.github.io">student</a> intrigued by pure mathematics, computer science, and computational neuroscience!
 </p>
