@@ -4,7 +4,7 @@
     </p>
 </h1>
 <p align="center">
-    Simply a <a href="https://philosolog.github.io">student</a> intrigued by pure mathematics, computer science, and computational neuroscience!
+    A passionate <a href="https://philosolog.github.io">programmer</a> intrigued by pure mathematics, computer science, and computational neuroscience!
 </p>
 <div align="center"> <!-- TODO: Add customizations... -->
     <img height=175 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&theme=vue" /> <!-- &hide=commits -->
