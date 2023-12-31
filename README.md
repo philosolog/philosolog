@@ -17,7 +17,7 @@
     </p>
 </h1>
 <div align="center">
-    <img src='https://randommeme-five.vercel.app/' style="width: 50%;"/>
+    <img src='https://randommeme-five.vercel.app/' style="width: 25%;"/>
 </div>
 
 <h1></h1>
