@@ -1,6 +1,6 @@
 <h1>
     <p align="center">
-        Hi.. 👋 <img src="https://komarev.com/ghpvc/?username=philosolog&color=green" />
+        Hi.. 👋
     </p>
 </h1>
 <p align="center">
@@ -18,6 +18,11 @@
 </h1>
 <div align="center">
     <img src='https://randommeme-five.vercel.app/' style="width: 50%;"/>
+</div>
+
+<h1></h1>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=philosolog&color=brightgreen&style=for-the-badge" />
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=94033911)
