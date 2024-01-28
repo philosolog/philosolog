@@ -1,8 +1,6 @@
 <h1>
     <p align="center">
         <img src="https://count.getloli.com/get/@:philosolog?theme=rule34" alt=":name" />
-        <br>
-        Hi, lol.. 👋
     </p>
 </h1>
 <p align="center">
