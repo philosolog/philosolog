@@ -4,7 +4,7 @@
     </p>
 </h1>
 <p align="center">
-    I'm a hobbyist <a href="https://philosolog.github.io">programmer</a> intrigued by pure mathematics, computer science, and computational neuroscience!
+    I'm a hobbyist <a href="https://philosolog.vercel.app">programmer</a> intrigued by pure mathematics, computer science, and computational neuroscience!
 </p>
 <div align="center"> <!-- TODO: Add customizations... -->
     <img height=125 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=vue" /> <!-- &hide=commits -->
