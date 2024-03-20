@@ -12,8 +12,4 @@
     <img height=125 src="https://cataas.com/cat" />
 </div>
 
-<div align="center">
-    <sub>(I'm currently working on a sleek-er Vercel website, pardon the lack of content!)</sub>
-</div>
-
 ![](https://hit.yhype.me/github/profile?user_id=94033911)
