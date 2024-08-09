@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**philosolog/philosolog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+    <p align="center">
+        Hi there! 👋
+    </p>
+</h1>
+<p align="center">
+    I'm a hobbyist <a href="https://philosolog.com">programmer</a> intrigued by pure mathematics and computer science!
+</p>
+<div align="center">
+    <img height=125 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=vue" /> <!-- &hide=commits -->
+    <img height=125 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&hide_progress=true&langs_count=8&count_private=true&theme=vue" />
+</div>
