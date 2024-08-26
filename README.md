@@ -7,6 +7,6 @@
     I'm a hobbyist <a href="https://philosolog.com">programmer</a> intrigued by pure mathematics and computer science!
 </p>
 <div align="center">
-    <img height=125 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=vue" /> <!-- &hide=commits -->
-    <img height=125 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&hide_progress=true&langs_count=8&count_private=true&theme=vue" />
+    <img height=125 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=graywhite" /> <!-- &hide=commits -->
+    <img height=125 src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&hide_progress=true&langs_count=8&count_private=true&theme=graywhite" />
 </div>
