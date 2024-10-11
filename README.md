@@ -4,7 +4,7 @@
     </p>
 </h1>
 <p align="center">
-    I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer science and pure mathematics @ <a href="https://uci.edu/">UC Irvine</a>!
+    I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer science and mathematics @ <a href="https://uci.edu/">UC Irvine</a>!
 </p>
 <div align="center">
     <img height=125 src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=graywhite" /> <!-- &hide=commits -->
