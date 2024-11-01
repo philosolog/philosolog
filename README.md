@@ -43,4 +43,4 @@ I'm a hobbyist <a href="https://philosolog.com" target="_blank" rel="noopener no
 	</tr>
 </table>
 
-<!-- TODO: Blog, projects, and publications -->
+<!-- TODO: Blog, projects, and publications & fix view on mobile-->
