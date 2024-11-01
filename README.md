@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm a hobbyist <a href="https://philosolog.com" target="_blank" rel="noopener noreferrer">programmer</a> studying computer science and mathematics @ <a href="https://uci.edu/" target="_blank" rel="noopener noreferrer">UC Irvine</a>!  
+I'm a hobbyist <a href="https://philosolog.com" target="_blank" rel="noopener noreferrer">programmer</a> studying mathematics and computer science @ <a href="https://uci.edu/" target="_blank" rel="noopener noreferrer">UC Irvine</a>!  
   
 
 <table>
