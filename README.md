@@ -5,8 +5,8 @@ I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer
 <table>
 	<tr>
 		<td valign="top" width="50%">
+			<br />
 			<div align="center">
-				<br />
 				<a href="https://linkedin.com/in/philosolog" target="_blank">
 					<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 				</a>
@@ -16,7 +16,7 @@ I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer
 				<a href="https://leetcode.com/u/philosolog" target="_blank">
 					<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 5px;" />
 				</a>
-			</div>  
+			</div>
 			<br />
 			<div align="center">
 				<img src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=graywhite" style="width: 90%" />
