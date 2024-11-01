@@ -42,3 +42,5 @@ I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer
 		</td>
 	</tr>
 </table>
+
+<!-- TODO: Blog, projects, and publications -->
