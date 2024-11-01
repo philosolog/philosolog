@@ -34,7 +34,7 @@ I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer
 				<a href="https://leetcode.com/u/philosolog" target="_blank">
 					<img src="https://leetcard.jacoblin.cool/philosolog?theme=light&font=Noto%20Sans&ext=contest" style="width: 95%" />
     				</a>
-				<a href="https://open.spotify.com/user/araknala" target="_blank">
+				<a href="https://open.spotify.com/user/araknala?si=9be3d7b7844a405a" target="_blank">
 					<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=true&background_color=FFFFFF&interchange=true&bar_color_cover=false" style="width: 95%" />
 				</a>
 			</div>
