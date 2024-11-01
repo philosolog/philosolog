@@ -19,16 +19,24 @@ I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer
 			</div>
 			<br />
 			<div align="center">
-				<img src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=graywhite" style="width: 95%" />
-				<img src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&hide_progress=false&langs_count=8&count_private=true&theme=graywhite" style="width: 95%" />
+				<a href="https://philosolog.com/" target="_blank">
+					<img src="https://github-readme-stats.vercel.app/api?username=philosolog&show_icons=true&rank_icon=github&count_private=true&hide=commits&theme=graywhite" style="width: 95%" />
+				</a>
+				<a href="https://philosolog.com/" target="_blank">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs?username=philosolog&layout=compact&hide_progress=false&langs_count=8&count_private=true&theme=graywhite" style="width: 95%" />
+				</a>
 			</div>
 			<br />
 		</td>
 		<td valign="top" width="50%">
 			<br />
 			<div align="center">
-				<img src="https://leetcard.jacoblin.cool/philosolog?theme=light&font=Noto%20Sans&ext=contest" style="width: 95%" />
-				<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=true&background_color=FFFFFF&interchange=true&bar_color_cover=false" style="width: 95%" />
+				<a href="https://leetcode.com/u/philosolog" target="_blank">
+					<img src="https://leetcard.jacoblin.cool/philosolog?theme=light&font=Noto%20Sans&ext=contest" style="width: 95%" />
+    				</a>
+				<a href="https://open.spotify.com/user/araknala" target="_blank">
+					<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=true&background_color=FFFFFF&interchange=true&bar_color_cover=false" style="width: 95%" />
+				</a>
 			</div>
 			<br />
 		</td>
