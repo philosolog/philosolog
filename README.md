@@ -8,13 +8,13 @@ I'm a hobbyist <a href="https://philosolog.com">programmer</a> studying computer
 			<div align="center">
 				<br />
 				<a href="https://linkedin.com/in/philosolog" target="_blank">
-				<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+					<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 				</a>
-				<a href="https://instagram.com/philosolog" target="_blank">
-				<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+				<a href="https://discord.com/users/897728576659529780" target="_blank">
+					<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;" />
 				</a>
-				<a href="https://github.com/philosolog" target="_blank">
-				<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+				<a href="https://leetcode.com/u/philosolog" target="_blank">
+					<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 5px;" />
 				</a>
 			</div>  
 			<br />
