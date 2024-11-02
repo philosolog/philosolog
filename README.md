@@ -1,6 +1,5 @@
 # Hi there! 👋
 I'm a hobbyist <a href="https://philosolog.com" target="_blank" rel="noopener noreferrer">programmer</a> studying mathematics and computer science @ <a href="https://uci.edu/" target="_blank" rel="noopener noreferrer">UC Irvine</a>!  
-  
 
 <table>
 	<tr>
@@ -35,7 +34,7 @@ I'm a hobbyist <a href="https://philosolog.com" target="_blank" rel="noopener no
 					<img src="https://leetcard.jacoblin.cool/philosolog?theme=light&font=Noto%20Sans&ext=contest" style="width: 95%" />
     				</a>
 				<a href="https://open.spotify.com/user/araknala?si=9be3d7b7844a405a" target="_blank" rel="noopener noreferrer">
-					<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=true&background_color=FFFFFF&interchange=true&bar_color_cover=true" style="width: 95%" />
+					<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=true&background_color=FFFFFF&interchange=true&bar_color_cover=true" style="width: 95%" onerror="this.style.display='none'" />
 				</a>
 			</div>
 			<br />
