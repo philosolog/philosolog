@@ -10,4 +10,9 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 More on https://philosolog.com/writing
 
 ### Currently listening to...
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false" style="width: 100%" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&redirect=true">
+  <img
+	src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false"
+	style="width: 100%"
+  />
+</a>
