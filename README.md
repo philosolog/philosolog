@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My current hobbies involve anatomizing game algorithms and competitive programming! Currently, I've been experimenting with TypeScript and Luau.
+Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My current hobbies involve anatomizing game algorithms and competitive programming! As of late, I've been experimenting with TypeScript and Luau.
 
 ### Recent blog posts
 
