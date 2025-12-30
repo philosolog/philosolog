@@ -7,7 +7,7 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 - **2025-11-20** — [Unclamped information preservation](https://philosolog.com/writing/unclamped-information-preservation)\
   That time I came across a cool trick with Roblox's Transparency property
 <!-- blog ends -->
-More on https://philosolog.com/writing
+More at https://philosolog.com/writing
 
 ### Currently listening to...
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&redirect=true">
