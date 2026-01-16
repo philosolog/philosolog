@@ -4,7 +4,7 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 ### Recent blog posts
 
 <!-- blog starts -->
-- **2025-11-20** — [Unclamped information preservation](https://philosolog.com/writing/unclamped-information-preservation)\
+- **2025-11-20** — [In-band state encoding of Transparency](https://philosolog.com/writing/in-band-state-encoding-of-transparency)\
   That time I came across a cool trick with Roblox's Transparency property
 <!-- blog ends -->
 More at https://philosolog.com/writing
