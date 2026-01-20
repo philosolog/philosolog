@@ -6,10 +6,8 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 <!-- blog starts -->
 - **2026-01-17** — [The math of kinks](https://philosolog.com/writing/the-math-of-kinks)\
   How to engineer piecewise linear functions
-- **2026-01-16** — [Typst is a good friend](https://philosolog.com/writing/how-i-take-notes-in-typst)\
-  Why I let someone else style my notes
-- **2025-12-30** — [Camera collisions on Roblox](https://philosolog.com/writing/camera-collisions-on-roblox)\
-  A simple tweak for a scalable camera collision system
+- **2025-11-20** — [In-band state encoding of Transparency](https://philosolog.com/writing/in-band-state-encoding-of-transparency)\
+  A clever trick for hiding and unhiding objects in Roblox
 <!-- blog ends -->
 More at https://philosolog.com/writing
 
