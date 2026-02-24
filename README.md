@@ -4,11 +4,11 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 ### Recent blog posts
 
 <!-- blog starts -->
-- **2026-01-17** — [The math of kinks](https://philosolog.com/writing/the-math-of-kinks)\
+- **2026-01-17** - [The math of kinks](https://philosolog.com/writing/the-math-of-kinks)\
   How to engineer piecewise linear functions
-- **2026-01-16** — [Typst is a good friend](https://philosolog.com/writing/how-i-take-notes-in-typst)\
+- **2026-01-16** - [Typst is a good friend](https://philosolog.com/writing/how-i-take-notes-in-typst)\
   Why I let someone else style my notes
-- **2025-12-30** — [Camera collisions on Roblox](https://philosolog.com/writing/camera-collisions-on-roblox)\
+- **2025-12-30** - [Camera collisions on Roblox](https://philosolog.com/writing/camera-collisions-on-roblox)\
   A simple tweak for a scalable camera collision system
 <!-- blog ends -->
 More at https://philosolog.com/writing
