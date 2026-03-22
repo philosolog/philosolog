@@ -4,12 +4,12 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 ### Recent blog posts
 
 <!-- blog starts -->
+- **2026-03-15** - [Hypergeometric case pulling](https://philosolog.com/writing/hypergeometric-case-pulling)\
+  Compute the Robux you should expect to burn for your favorite skin(s)
 - **2026-03-10** - [Inner Product Catalog](https://philosolog.com/writing/inner-product-catalog)\
   Common inner products w/ their properties and applications
 - **2026-03-10** - [On Clans](https://philosolog.com/writing/on-clans)\
   Why I find Clash of Clans fascinating
-- **2026-01-17** - [The math of kinks](https://philosolog.com/writing/the-math-of-kinks)\
-  How to engineer piecewise linear functions
 <!-- blog ends -->
 More at https://philosolog.com/writing
 
