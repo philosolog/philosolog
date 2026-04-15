@@ -12,7 +12,8 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 - **2026-04-06** - [Computation saved through bistochasticity](https://philosolog.com/writing/computation-saved-through-bistochasticity)\
   How bistochastic matrices speed up usual matrix operations
 <!-- blog ends -->
-  More at https://philosolog.com/writing
+
+More at https://philosolog.com/writing
   
 <!-- ### Currently listening to...
 
