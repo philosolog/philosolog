@@ -5,14 +5,13 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 ### Recent blog posts
 
 <!-- blog starts -->
-
 - **2026-04-13** - [Beautiful results of the Markov property](https://philosolog.com/writing/beautiful-results-of-the-markov-property)\
   Proving four fundamental results of the Markov property in probability theory
 - **2026-04-07** - [Inference on a Grow a Garden algorithm](https://philosolog.com/writing/inference-on-a-grow-a-garden-algorithm)\
   Going from wiki code to expected value of a two-component mixture model
 - **2026-04-06** - [Computation saved through bistochasticity](https://philosolog.com/writing/computation-saved-through-bistochasticity)\
-   How bistochastic matrices speed up usual matrix operations
-  <!-- blog ends -->
+  How bistochastic matrices speed up usual matrix operations
+<!-- blog ends -->
   More at https://philosolog.com/writing
   
 <!-- ### Currently listening to...
