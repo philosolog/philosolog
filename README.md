@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My current hobbies involve anatomizing game algorithms and competitive programming! As of late, I've been experimenting with TypeScript and Luau.
+Hey, Aaron here! I'm an undergrad working in the fuzzy intersection of math, programming, and games, especially game data science, product analytics, and game economy systems. I mostly build with Python, Luau, TypeScript, and C++.
 
 ### Recent blog posts
 
@@ -10,12 +10,5 @@ Hi, I'm Aaron Wang. Academically, I'm a math and computer science student. My cu
 <!-- blog ends -->
 
 More at https://philosolog.com/writing
-  
-<!-- ### Currently listening to...
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&redirect=true">
-  <img
-	src="https://spotify-github-profile.kittinanx.com/api/view?uid=araknala&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false"
-	style="width: 100%"
-  />
-</a> -->
+![badge](https://shieldcn.dev/wakatime/philosolog.svg?variant=outline&size=xs) ![reputation](https://shieldcn.dev/stackexchange/reputation/1634413.svg?site=math&variant=outline&size=xs)
