@@ -12,4 +12,3 @@ Hey, Aaron here! I'm an undergrad working in the fuzzy intersection of math, pro
 More at https://philosolog.com/writing
 
 ![badge](https://shieldcn.dev/wakatime/philosolog.svg?variant=outline&size=xs)
-<!-- ![reputation](https://shieldcn.dev/stackexchange/reputation/1634413.svg?site=math&variant=outline&size=xs) -->
