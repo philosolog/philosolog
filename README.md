@@ -1,6 +1,6 @@
 ## About Me
 
-Sup
+Don't know what to say here. Feel free to look around.
 
 ### Recent blog posts
 
