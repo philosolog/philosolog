@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, Aaron here! I'm an undergrad working in the fuzzy intersection of math, programming, and games, especially game data science, product analytics, and game economy systems. I mostly build with Python, Luau, TypeScript, and C++.
+Sup
 
 ### Recent blog posts
 
