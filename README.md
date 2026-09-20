@@ -1,6 +1,6 @@
 ## About Me
 
-Don't know what to say here. Feel free to look around.
+Don't know what to say here. Feel free to [look around](https://philosolog.com/).
 
 ### Recent blog posts
 
